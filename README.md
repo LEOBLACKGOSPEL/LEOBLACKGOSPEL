@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LEOPOLDO !
-- 👀 I’m interested in opportunity Dev Junior
+- 👀 I’m interested in opportunity Business Analyst | Customer Relationship Management | Marketing Cloud | Customer Data Platform | Developer 
 - 🌱 I have these courses completed .....
 - 🏆 Desenvolvimento de aplicações com .Net
 - 🥊 Introdução a Arquitetura da Plataforma Android com Kotlin.
@@ -11,7 +11,7 @@
 - 👘 SQL SERVER-Criando suas primeiras consultas.
 - 🎭 Construindo páginas para internet com Bootstrap.
 - ⛑  Introdução ao ReactJS.
-- 💞️ Studying English at Sedda Collegeonline School
+- 💞️ Studying English at EF English Live
 - 📫 The saga for knowledge continues...
 
  <div>
