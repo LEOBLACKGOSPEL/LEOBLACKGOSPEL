@@ -1,16 +1,41 @@
 - 👋 Hi, I’m @LEOPOLDO !
-- 👀 I’m interested in opportunity Business Analyst | Customer Relationship Management | Marketing Cloud | Customer Data Platform | Developer 
-- 🌱 I have these courses completed .....
-- 🏆 Desenvolvimento de aplicações com .Net
+- Estudante de Engenharia Agronônica e Entusiasta de Tecnologia e Inovação
+- 👀 I’m interested in opportunity Business Analyst | CRM | Salesforce | Agricultura de Precisão | Agronegócio.
+- 🌱 Formação em Tecnologia e Inovação .
+- Perfil Alura : https://cursos.alura.com.br/user/leopoldo-ribeiro2
+- Perfil Microsoft Learn : https://learn.microsoft.com/pt-br/users/leopoldo2020/
+- Perfil Trailhead Salesforce : https://trailblazer.me/id/leopoldo1976
+- 1-Formação Business Agility
+- 2-Formação Gerente Ágil - Metodologia Agile
+- 3-Formação Devops
+- 4-Formação Google BigQuery e DataStudio
+- 5-Formação UX Research
+- 6-Formação Digital e Agile Thinking
+- 7-Formação Power BI
+- 8-Formação Governança Corporativa
+- 9-Formação COBIT 2019
+- 10-Formação Lean, Governança e Agilidade Escalada
+- 11-Formação Gestão e Aplicações SAP
+- 12-Formação Certificação PMP e CAPM do PMI
+- 13-Formação Começando na AWS com Lightsail EC2,S3 e Dynamo DB
+- 🏆 Treinamentos em Agronegócio
+- 1-Administração Rural e busca por resultados
+- 2-Agricultura de Precisão nas Diferentes Culturas
+- 3-Agricultura de Prescisão na Colheita de Grãos
+- 4-Agricultura de Precisão na Semeadura
+- 5-Introdução a Agricultura de Precisão
+- 6-Agropecuária Sustentavel
+- 7-Introdução ao cadastro Nacional da Agricultura Familiar
+- 8-Compostagem
+- 9-Cultivo e Produção de Grãos
+- 10-Introdução a Agroecologia e á Produção Orgânica
+- 11-Sistemas de Orientação por Satélite
 - 🥊 Introdução a Arquitetura da Plataforma Android com Kotlin.
 - 💎 Introdução ao MongoDB e Banco de Dados NoSQL.
 - 🥇 Linux :Introdução ao sistema operacional.
 - 🥈 Liderança de negócios com Cultura Ágil.
-- 🏅 Desenvolvimento de software com Azure Static Web Apps e GitHub Action.
-- 🎖  Big Data e Hadoop.
 - 👘 SQL SERVER-Criando suas primeiras consultas.
-- 🎭 Construindo páginas para internet com Bootstrap.
-- ⛑  Introdução ao ReactJS.
+- 🎭 Construindo páginas para internet com WordPress
 - 💞️ Studying English at EF English Live
 - 📫 The saga for knowledge continues...
 
